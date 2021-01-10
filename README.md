@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Geek, lover of innovation and everything related to the generation and sharing new knowledge. A proactive problem solver. A team focused behavior. Developer by day, professor by night. A really bad Youtuber :D https://peqa.com. 
+Geek, lover of innovation and everything related to the generation and sharing new knowledge. A proactive problem solver. A team focused behavior. Developer by day, professor by night. A really bad Youtuber :D https://peqa.dev. 
 
 <!--
 **ErickAgrazal/ErickAgrazal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
