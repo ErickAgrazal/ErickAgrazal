@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Geek, lover of innovation and everything related to the generation and sharing new knowledge. A proactive problem solver. A team focused behavior. Developer by day, professor by night. Trying to be a Youtuber :D https://www.youtube.com/c/PEQADev/featured. 
+Passionate innovator and technology enthusiast with a strong commitment to continuous learning and knowledge sharing within the community. I thrive on solving complex challenges with a positive attitude and a results-driven mindset. Skilled in fostering collaboration and maintaining excellent interpersonal relationships. I believe that when problems arise, the focus should be on finding solutions rather than assigning blame, driving teams toward efficiency and success.
 
 <!--
 **ErickAgrazal/ErickAgrazal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
