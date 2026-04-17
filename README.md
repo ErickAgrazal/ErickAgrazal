@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionate innovator and technology enthusiast with a strong commitment to continuous learning and knowledge sharing within the community. I thrive on solving complex challenges with a positive attitude and a results-driven mindset. Skilled in fostering collaboration and maintaining excellent interpersonal relationships. I believe that when problems arise, the focus should be on finding solutions rather than assigning blame, driving teams toward efficiency and success.
+Technologist focused on agentic development, AI-assisted workflows, and building systems that help teams move faster without losing rigor. I thrive on solving complex problems, turning ambiguity into practical, high-impact solutions with a strong bias for learning, experimentation, and results. I balance cost-efficiency with bold investment when the opportunity warrants it, always aiming for the highest leverage path. Known for a collaborative, no-blame approach, I enjoy aligning people, processes, and technology to drive execution, share knowledge, and create lasting impact in the community.
 
 <!--
 **ErickAgrazal/ErickAgrazal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
